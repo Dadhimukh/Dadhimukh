@@ -7,7 +7,7 @@
  -->
 - 💬 Ask me about **react, javascript, java**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: yadavdadhimukh@gmail.com</h3>
 <p align="left">
 </p>
 
