@@ -1,22 +1,46 @@
-<h1 align="center">Hi 👋, I'm Dadhimukh Yadav</h1>
-<!-- <h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm <a href="https://github.com/Dadhimukh" target="blank">Dadhimukh Yadav</a>
+<h3>A Passionate Software Engineer from India &#127470;&#127475</h3>
+<img src="https://komarev.com/ghpvc/?username=Dadhimukh&label=PROFILE%20VIEWS&color=red&style=flat" alt="Profile Views"/>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a> 
+
+
+
+
+- 🌱 I’m currently Working as Frontend Developer @Kratin.
+
+- 💬 Ask me Anything about **#React #Javascript**
+
+
+
+
+<a href="https://www.linkedin.com/in/dadhimukh-yadav/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+ </a> 
+ <a href="https://leetcode.com/problemset/">
+  <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=#B3B1B0" alt="LeetCode"/>
+</a>
+<a href="https://greekforgreeks.com/">
+  <img src="https://img.shields.io/badge/GreekForGreeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=#43A047" alt="GreekForGreeks"/>
+</a>
+<a href="yadavdadhimukh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<!-- <a href="https://drive.google.com/file/d/14gi3xwPKnDihQARFZmQ5Ns9oNYZC3FX7/view?usp=sharing">
+  <img src="https://img.shields.io/badge/RESUME-green?style=for-the-badge"/>
+</a>
  -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dadhimukh&label=Profile%20views&color=0e75b6&style=flat" alt="dadhimukh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dadhimukh" alt="dadhimukh" /></a> </p>
- -->
-<!-- - 💬 Ask me about **react, javascript, java**
 
-<h3 align="left">Connect with me: yadavdadhimukh@gmail.com</h3>
-<p align="left">
-</p>
+## **About me** :
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+Hello community! 👋 I'm Dadhimukh Uma Yadav, a passionate Frontend Web Developer eager to make waves in the dynamic world of technology. My journey started at Gondwana University, Gadchiroli, where I delved into the fascinating realm of Biochemistry and honed my analytical skills. 🧪💡
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dadhimukh&show_icons=true&locale=en&layout=compact" alt="dadhimukh" /></p>
+I am currently serving as a Frontend Web Developer at Kratin LLC, where I specialize in React development. My skills extend to the full spectrum of the MERN stack, showcasing my proficiency in React.js, JavaScript, Redux, and more. 🚀💻🌈
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dadhimukh&show_icons=true&locale=en" alt="dadhimukh" /></p>
+I am thrilled to contribute my skills and creativity to innovative projects that push the boundaries of web development. Let's connect and explore the endless possibilities that technology has to offer! 🌐✨🚀
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dadhimukh&" alt="dadhimukh" /></p>
- -->
+Feel free to reach out for collaboration, discussions, or simply to share your experiences. I am open to new opportunities and always eager to learn from fellow professionals in the field. 🤝🎓💬
+
+#FrontendDeveloper #ReactJS #JavaScriptDeveloper #MERNStack #WebDevelopment #OpenToOpportunities 🚀🌟👩‍💻
