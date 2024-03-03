@@ -21,7 +21,7 @@
  <a href="https://leetcode.com/problemset/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=#B3B1B0" alt="LeetCode"/>
 </a>
-<a href="https://greekforgreeks.com/">
+<a href="https://auth.geeksforgeeks.org/user/yadavdadh8tv">
   <img src="https://img.shields.io/badge/GreekForGreeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=#43A047" alt="GreekForGreeks"/>
 </a>
 <a href="yadavdadhimukh@gmail.com">
