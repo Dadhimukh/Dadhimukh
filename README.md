@@ -26,7 +26,7 @@
 <!--   <img src="https://img.shields.io/badge/GreekForGreeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=#43A047" alt="GreekForGreeks"/>
 </a>
  -->
-<a href="https://www.dadhimukh.1994@gmail.com">
+<a href="mailto:dadhimukh.1994@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <!-- <a href="https://drive.google.com/file/d/14gi3xwPKnDihQARFZmQ5Ns9oNYZC3FX7/view?usp=sharing">
