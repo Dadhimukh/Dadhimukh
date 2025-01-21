@@ -16,16 +16,17 @@
 
 
 
-<a href="https://www.linkedin.com/in/dadhimukh-yadav/">
+<a href="https://www.linkedin.com/in/dadhi1994/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
  </a> 
- <a href="https://leetcode.com/problemset/">
+<!--  <a href="https://leetcode.com/problemset/">
   <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=#B3B1B0" alt="LeetCode"/>
 </a>
-<a href="https://auth.geeksforgeeks.org/user/yadavdadh8tv">
-  <img src="https://img.shields.io/badge/GreekForGreeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=#43A047" alt="GreekForGreeks"/>
+<a href="https://auth.geeksforgeeks.org/user/yadavdadh8tv"> -->
+<!--   <img src="https://img.shields.io/badge/GreekForGreeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=#43A047" alt="GreekForGreeks"/>
 </a>
-<a href="https://www.yadavdadhimukh@gmail.com">
+ -->
+<a href="https://www.dadhimukh.1994@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <!-- <a href="https://drive.google.com/file/d/14gi3xwPKnDihQARFZmQ5Ns9oNYZC3FX7/view?usp=sharing">
