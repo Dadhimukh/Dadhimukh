@@ -10,7 +10,8 @@
 
 - 🌱 I’m currently Working as Software Developer @Myclan Services Pvt Ltd.
 
-- 💬 Ask me Anything about **#React #Javascript #Redux #HTML5 #CSS3 #NodeJS #ExpressJS #MongoDB #SQLServer #Bootstrap #RESTfulAPIs #MVCArchitecture #Fiddler #Postman #Agile #Scrum**
+- 💬 Ask me Anything about
+  **#React #Javascript #Redux #HTML5 #CSS3 #NodeJS #ExpressJS #MongoDB #SQLServer #Bootstrap #RESTfulAPIs #MVCArchitecture #Fiddler #Postman #Agile #Scrum**
 
 
 
