@@ -41,7 +41,7 @@ Hello, tech enthusiasts! 👋
 
 I'm Dadhimukh Uma Yadav, an innovative and detail-oriented Software Developer with over 3.2 years of professional experience. My journey in the tech world began with a solid academic foundation at Gondwana University, where I earned a degree in chemistry—sharpening my analytical and problem-solving skills along the way. 🌟
 
-Currently, I am thriving as a Frontend Web Developer at Kratin LLC, specializing in React.js and the MERN stack. My technical expertise spans across JavaScript (ES2023), Redux, HTML5, CSS3, and other cutting-edge technologies. I have hands-on experience integrating RESTful APIs and a knack for crafting scalable, user-centric web applications. 💻🚀
+Currently, I am thriving as a Software Developer at Myclan Services Pvt Ltd, specializing in React.js and the MERN stack. My technical expertise spans across JavaScript (ES2023), Redux, HTML5, CSS3, and other cutting-edge technologies. I have hands-on experience integrating RESTful APIs and a knack for crafting scalable, user-centric web applications. 💻🚀
 
 🌟 Key Achievements:
 Developed and enhanced Property Management Software, a comprehensive web-based application for rental property management, leveraging technologies like React.js, Node.js, and MongoDB.
