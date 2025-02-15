@@ -22,7 +22,7 @@ Currently, I am working at **Myclan Services Pvt Ltd** as a **Software Developer
 - **Agile Methodologies:** Scrum, Agile, CI/CD
 
 ## **🌟 Professional Experience**
-### **Software Developer – Myclan Services Pvt Ltd** (MM/YYYY – Present)
+### **Software Developer – Myclan Services Pvt Ltd** (07/2022 – Present)
 - Designed and developed **Property Management Software**, an advanced rental management platform using **React.js, Node.js, and MongoDB**.
 - Built an **Event Management and Ticketing Platform** with real-time analytics and secure payment processing.
 - Led a team of developers in optimizing performance and scalability.
