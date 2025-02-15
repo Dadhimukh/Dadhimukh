@@ -1,5 +1,7 @@
 # Hi there, I'm Dadhimukh Yadav 👋
 
+<img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Technologies Banner" style="width:100%;">
+
 Welcome to my GitHub profile! I'm a passionate and results-driven Software Developer with 2.8+ years of experience in designing, developing, and deploying scalable web applications. Here you'll find a collection of my personal projects, contributions, and collaborations.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dadhimukh&style=flat-square)
@@ -10,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate and results-driven Software Devel
 - 🌱 I’m always learning and exploring new technologies, especially in the MERN stack and cloud-based solutions.
 - 👯 I’m looking to collaborate on innovative projects and open-source contributions.
 - 💬 Ask me about software development, API development, and cloud solutions.
-- 📫 How to reach me: [dadhimukh@example.com](mailto:dadhimukh.1994@gmail.com)
+- 📫 How to reach me: [dadhimukh.1994@gmail.com](mailto:dadhimukh.1994@gmail.com)
 - ⚡ Fun fact: I enjoy hiking and photography.
 
 ## 💼 Professional Summary
@@ -80,9 +82,7 @@ Key Contributions:
 
 ## 🌐 Additional Information
 
-- **Languages:** English, Hindi
-- **Volunteer Experience:** [If applicable]
-- **Publications:** [If applicable]
+- **Languages:** English, Hindi, Marathi
 
 ## 📊 My GitHub Stats
 
