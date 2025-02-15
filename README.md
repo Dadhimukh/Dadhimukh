@@ -91,6 +91,6 @@ Key Contributions:
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dadhimukh)
+- LinkedIn: [Dadhimukh](https://www.linkedin.com/in/dadhimukh)
 
 Thanks for visiting my profile! Have a great day! 😊
