@@ -1,55 +1,96 @@
-# Hi 👋, I'm <a href="https://github.com/Dadhimukh" target="blank">Dadhimukh Yadav</a>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</a> 
-<h3>A Passionate Software Developer from India 🇮🇳</h3>
-<img src="https://komarev.com/ghpvc/?username=Dadhimukh&label=PROFILE%20VIEWS&color=red&style=flat" alt="Profile Views"/>
+# Hi there, I'm Dadhimukh Yadav 👋
 
+Welcome to my GitHub profile! I'm a passionate and results-driven Software Developer with 2.8+ years of experience in designing, developing, and deploying scalable web applications. Here you'll find a collection of my personal projects, contributions, and collaborations.
 
-## **About Me** :
-Hello, tech enthusiasts! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Dadhimukh&style=flat-square)
 
-I'm **Dadhimukh Uma Yadav**, an innovative and detail-oriented **Software Developer** with over **3.2 years** of professional experience in **full-stack development**. Passionate about crafting scalable and efficient web applications, I specialize in the **MERN stack** and modern web technologies. 
+## 📝 About Me
 
-Currently, I am working at **Myclan Services Pvt Ltd** as a **Software Developer**, where I contribute to the development of high-performing applications using **React.js, Node.js, and MongoDB**. 
+- 🔭 I’m currently working at Myclan Services Pvt Ltd, focusing on scalable web applications.
+- 🌱 I’m always learning and exploring new technologies, especially in the MERN stack and cloud-based solutions.
+- 👯 I’m looking to collaborate on innovative projects and open-source contributions.
+- 💬 Ask me about software development, API development, and cloud solutions.
+- 📫 How to reach me: [dadhimukh@example.com](mailto:dadhimukh.1994@gmail.com)
+- ⚡ Fun fact: I enjoy hiking and photography.
 
-## **🌟 Technical Skills**
-- **Frontend Development:** React.js, JavaScript (ES2023), Redux, HTML5, CSS3, Bootstrap
-- **Backend & APIs:** Node.js, Express.js, RESTful APIs
-- **Databases:** SQL Server, MongoDB, PostgreSQL
-- **DevOps & Tools:** Git, Docker, Jenkins, AWS
-- **Testing Tools:** Postman, Fiddler
-- **Agile Methodologies:** Scrum, Agile, CI/CD
+## 💼 Professional Summary
 
-## **🌟 Professional Experience**
-### **Software Developer – Myclan Services Pvt Ltd** (07/2022 – Present)
-- Designed and developed **Property Management Software**, an advanced rental management platform using **React.js, Node.js, and MongoDB**.
-- Built an **Event Management and Ticketing Platform** with real-time analytics and secure payment processing.
-- Led a team of developers in optimizing performance and scalability.
-- Integrated RESTful APIs to enhance system efficiency and data management.
-- Developed and optimized scalable **web applications** for various industries.
-- Worked with **cross-functional teams** to deliver high-quality software solutions.
+Results-driven Software Developer with 2.8+ years of experience in designing, developing, and deploying scalable web applications. Proficient in React.js, MERN stack, and RESTful APIs, with a strong foundation in both front-end and back-end development. Skilled in agile methodologies, API development, and cloud-based solutions. Passionate about solving complex problems, optimizing performance, and integrating the latest technologies.
 
-## **📚 Notable Projects**
-### **Property Management Software**
-- Developed a **full-stack web application** for rental property management.
-- Technologies used: **React.js, Node.js, MongoDB, Express.js**.
-- Achieved **XX% increase in operational efficiency**.
+## 🛠️ Technical Skills
 
-### **Event Management & Ticketing Platform**
-- Designed a user-friendly platform for event planning and ticket sales.
-- Integrated **real-time analytics** and secure payment gateways.
-- Utilized **React, Redux, Node.js, and PostgreSQL** for development.
+- **Front-End Development:** React.js, JavaScript, TypeScript, Bootstrap, Tailwind CSS, HTML5, CSS3, jQuery, Ajax
+- **Back-End Development:** Node.js, Express.js, RESTful APIs, Microservices, Core Java
+- **Databases:** MongoDB, MySQL, SQL Server
+- **Tools & Platforms:** Git, SVN, Postman, Fiddler, AWS (EC2, RDS), Firebase, Docker, CI/CD Pipelines (GitHub Actions)
+- **Frameworks:** React, React Native, AngularJS, MVC Architecture
+- **Other Skills:** Linux, API Development, Agile Methodologies, Problem-Solving, Debugging, WebSockets, Socket.io
 
-## **👥 Let's Connect!**
-<a href="https://www.linkedin.com/in/dadhi1994/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
-</a> 
-<a href="mailto:dadhimukh.1994@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+## 💼 Professional Experience
 
-## **🌟 Tech Enthusiast | Open Source Contributor | Problem Solver**
-Always eager to collaborate on exciting projects, explore new technologies, and contribute to open-source initiatives. Feel free to reach out! 
+**Software Developer** – Myclan Services Pvt Ltd (07/2022 – Present | Pune, India)
 
-#ReactJS #MERNStack #WebDevelopment #SoftwareEngineer #OpenToOpportunities
+Key Responsibilities:
+- Architected, developed, and deployed scalable web applications using React.js and MERN stack.
+- Built RESTful APIs and microservices using Node.js & Express.js, ensuring high performance and scalability.
+- Collaborated with cross-functional teams to meet business objectives and deliver projects on time.
+- Mentored junior developers to maintain code quality and best practices.
+- Developed responsive user interfaces using React.js, Angular, and Bootstrap.
+- Integrated AWS, Firebase, and DigitalOcean for backend services and cloud deployment.
+- Implemented JWT & OAuth authentication for secure login mechanisms.
+- Managed CI/CD pipelines using GitHub Actions and Docker to streamline deployments.
+- Led Agile sprints, daily stand-ups, and retrospectives to enhance productivity.
+
+Achievements:
+- **Spot Award (11/2024):** Resolved a critical billing data issue by identifying root causes and optimizing queries.
+- **Spot Award (09/2023):** Automated data file generation, eliminating manual intervention for the Finance team.
+
+## 🎓 Education
+
+- **Bachelor of Science (B.S.)** – Gondwana University, 2022 | CGPA: 7.32
+
+## 🏆 Certifications
+
+- Developed an event creation module with customizable event pages.
+- Designed a secure online ticketing system with real-time payment processing.
+
+## 🌟 Projects
+
+### Event Management and Ticketing Platform
+
+Overview: Developed a web application for event organization, ticketing, and attendee management, supporting both virtual and in-person events.
+
+Key Contributions:
+- Developed an event creation module with customizable event pages.
+- Designed a secure online ticketing system with real-time payment processing.
+- Built an attendee management system with cloud-based solutions.
+- Integrated real-time interactive sessions, polls, and Q&A features.
+- Created an analytics dashboard to provide insights into event performance.
+
+### Property Management Software
+
+Overview: Designed a cloud-based platform for rental property management, streamlining tenant applications, maintenance, and financial tracking.
+
+Key Contributions:
+- Developed a property listing system with real-time updates.
+- Built a tenant application portal with secure data storage.
+- Engineered a maintenance request module for seamless tracking.
+- Created financial management tools for automated rent collection and expense tracking.
+- Implemented real-time messaging for improved communication between tenants and managers.
+
+## 🌐 Additional Information
+
+- **Languages:** English, Hindi
+- **Volunteer Experience:** [If applicable]
+- **Publications:** [If applicable]
+
+## 📊 My GitHub Stats
+
+![Dadhimukh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dadhimukh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dadhimukh&layout=compact&theme=radical)
+
+## 📫 Get in Touch
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dadhimukh)
+
+Thanks for visiting my profile! Have a great day! 😊
