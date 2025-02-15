@@ -21,12 +21,53 @@ Results-driven Software Developer with 2.8+ years of experience in designing, de
 
 ## 🛠️ Technical Skills
 
-- **Front-End Development:** React.js, JavaScript, TypeScript, Bootstrap, Tailwind CSS, HTML5, CSS3, jQuery, Ajax
-- **Back-End Development:** Node.js, Express.js, RESTful APIs, Microservices, Core Java
-- **Databases:** MongoDB, MySQL, SQL Server
-- **Tools & Platforms:** Git, SVN, Postman, Fiddler, AWS (EC2, RDS), Firebase, Docker, CI/CD Pipelines (GitHub Actions)
-- **Frameworks:** React, React Native, AngularJS, MVC Architecture
-- **Other Skills:** Linux, API Development, Agile Methodologies, Problem-Solving, Debugging, WebSockets, Socket.io
+### Front-End Development:
+![React](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
+![Ajax](https://img.shields.io/badge/-Ajax-black?style=flat-square&logo=ajax)
+
+### Back-End Development:
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-black?style=flat-square&logo=api)
+![Microservices](https://img.shields.io/badge/-Microservices-black?style=flat-square&logo=microservices)
+![Java](https://img.shields.io/badge/-Core%20Java-black?style=flat-square&logo=java)
+
+### Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-black?style=flat-square&logo=microsoft-sql-server)
+
+### Tools & Platforms:
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![SVN](https://img.shields.io/badge/-SVN-black?style=flat-square&logo=subversion)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Fiddler](https://img.shields.io/badge/-Fiddler-black?style=flat-square&logo=fiddler)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-CI/CD-black?style=flat-square&logo=github-actions)
+
+### Frameworks:
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![AngularJS](https://img.shields.io/badge/-AngularJS-black?style=flat-square&logo=angularjs)
+![MVC Architecture](https://img.shields.io/badge/-MVC%20Architecture-black?style=flat-square&logo=mvc)
+
+### Other Skills:
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![API Development](https://img.shields.io/badge/-API%20Development-black?style=flat-square&logo=api)
+![Agile Methodologies](https://img.shields.io/badge/-Agile%20Methodologies-black?style=flat-square&logo=agile)
+![Problem-Solving](https://img.shields.io/badge/-Problem%20Solving-black?style=flat-square&logo=problem-solving)
+![Debugging](https://img.shields.io/badge/-Debugging-black?style=flat-square&logo=debugging)
+![WebSockets](https://img.shields.io/badge/-WebSockets-black?style=flat-square&logo=websocket)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
 
 ## 💼 Professional Experience
 
@@ -86,8 +127,10 @@ Key Contributions:
 
 ## 📊 My GitHub Stats
 
-![Dadhimukh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dadhimukh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dadhimukh&layout=compact&theme=radical)
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dadhimukh&show_icons=true&theme=radical" alt="Dadhimukh's GitHub Stats" style="height: 195px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadhimukh&layout=compact&theme=radical" alt="Top Languages" style="height: 195px;"/>
+</div>
 
 ## 📫 Get in Touch
 
