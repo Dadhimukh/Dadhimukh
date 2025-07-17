@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate and results-driven Software Devel
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourtelegramprofile)
 
 - ⚡ Fun fact: I enjoy hiking and photography.
+<!-- 
 
 ## 💼 Professional Summary
 
@@ -128,6 +129,9 @@ Key Contributions:
 - Engineered a maintenance request module for seamless tracking.
 - Created financial management tools for automated rent collection and expense tracking.
 - Implemented real-time messaging for improved communication between tenants and managers.
+
+-->
+
 
 ## 🌐 Additional Information
 
