@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Technologies Banner" style="width:100%;">
 
-Welcome to my GitHub profile! I'm a passionate and results-driven Software Developer with 2.8+ years of experience in designing, developing, and deploying scalable web applications. Here you'll find a collection of my personal projects, contributions, and collaborations.
+Welcome to my GitHub profile! I'm a passionate and results-driven Software Developer with 3.2+ years of experience in designing, developing, and deploying scalable web applications. Here you'll find a collection of my personal projects, contributions, and collaborations.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dadhimukh&style=flat-square)
 
